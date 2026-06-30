@@ -21,7 +21,7 @@
 ### :zap: Recent Activity
 
 ### :myBlog  
-<a href="https://www.qiyi.click" target="_blank">https://www.qiyi.click</a>
+[![Blog](https://img.shields.io/badge/Blog-Visit-blue?style=flat&logo=github)](https://www.qiyi.click)
 
 <!--START_SECTION:activity-->
 
